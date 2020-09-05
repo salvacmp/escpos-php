@@ -143,6 +143,7 @@ Many thermal receipt printers support ESC/POS to some degree. This driver has be
 - Star TSP-650
 - Star TUP-592
 - TVS RP45 Shoppe
+- Unicorn UC-80
 - Venus V248T
 - Xeumior SM-8330
 - Xprinter F-900
